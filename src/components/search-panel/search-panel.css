@@ -1,0 +1,10 @@
+.search-wrapper {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.search-input {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
